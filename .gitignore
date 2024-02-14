@@ -1,0 +1,28 @@
+# Ignore Next.js build output
+.next/
+
+# Ignore environment configuration files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn logs
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
